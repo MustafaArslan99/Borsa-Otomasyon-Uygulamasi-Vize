@@ -16,7 +16,8 @@ Kullanıcı para eklemek istediği zaman, eklemek istediği miktarı girerek adm
 
 Kullanıcı satın aldığı ürünlerin listesini menüde bulunan 'Satın Aldığınız Ürünler' butonuna tıklayarak görebilir.
 
-Admin kullanıcı adı: admin   
+Admin  
+kullanıcı adı: admin   
 şifre :123
 
 Projenin tasarımı ve yazılımı Mustafa Arslan'a aittir.
